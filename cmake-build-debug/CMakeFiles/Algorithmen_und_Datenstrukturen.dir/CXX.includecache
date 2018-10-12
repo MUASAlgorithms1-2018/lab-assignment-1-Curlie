@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.cpp
+mss.h
+/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.h
+iostream
+-
+
+/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.h
+

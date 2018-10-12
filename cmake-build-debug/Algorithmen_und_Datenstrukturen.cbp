@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Algorithmen_und_Datenstrukturen"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithmen_und_Datenstrukturen">
+				<Option output="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/Algorithmen_und_Datenstrukturen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithmen_und_Datenstrukturen"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithmen_und_Datenstrukturen/fast">
+				<Option output="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/Algorithmen_und_Datenstrukturen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithmen_und_Datenstrukturen/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/julian/Studium/Algorithmen\ und\ Datenstrukturen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.cpp">
+			<Option target="Algorithmen_und_Datenstrukturen"/>
+		</Unit>
+		<Unit filename="/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.h">
+			<Option target="Algorithmen_und_Datenstrukturen"/>
+		</Unit>
+		<Unit filename="/home/julian/Studium/Algorithmen und Datenstrukturen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

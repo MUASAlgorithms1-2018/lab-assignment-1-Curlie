@@ -1,0 +1,3 @@
+/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/CMakeFiles/Algorithmen_und_Datenstrukturen.dir
