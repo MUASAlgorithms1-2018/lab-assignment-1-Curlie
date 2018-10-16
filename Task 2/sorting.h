@@ -1,0 +1,14 @@
+//
+// Created by julian on 16.10.18.
+//
+
+#ifndef ALGORITHMEN_UND_DATENSTRUKTUREN_SORTING_H
+#define ALGORITHMEN_UND_DATENSTRUKTUREN_SORTING_H
+
+
+class sorting {
+
+};
+
+
+#endif //ALGORITHMEN_UND_DATENSTRUKTUREN_SORTING_H
