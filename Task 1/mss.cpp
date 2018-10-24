@@ -46,7 +46,9 @@ int linear_mss(int array[], int end){
             thisSum = 0;
 
     }
-    return maxSum;
+    return maxSum;    for (int i = 0; i < n; i++) {
+        arr[i] = atoi(argv[i+2]);
+    }
 }
 
 
@@ -75,7 +77,32 @@ int main () {
     result = 0;
     result = linear_mss(arr8, size);
     std::cout << result << std::endl;
+
+    static int arr9[] = {-342, -628, -952, -537, -989, -584, -671, -59, -207, -798, -885, -476, -187, -380, -30, -210, -810, -940, -790, -494, -503, -387, -139, -259, -617, -389, -438, -709, -46, -257, -403, -844, -837, -95, -588, -71, -579, -781, -320, -106, -664, -629, -797, -212, -773, -74, -211, -380, -189, -960, -421, -333, -391, -152, -141, -907, -792, -650, -243, -615, -422, -253, -565, -773, -764, -575, -366, -93, -649, -195, -991, -807, -799, -872, -798, -635, -517, -614, -599, -223, -136, -915, -847, -641, -775, -93, -262, -301, -296, -513, -307, -488, -34, -278, -890, -618, -975, -102, -883, -409};
+    size = sizeof(arr9) / sizeof(int);
+    result = 0;
+    result = cubic_mss(arr9, size);
+    std::cout << result << std::endl;
+    result = 0;
+    result = quadratic_mss(arr9, size);
+    std::cout << result << std::endl;
+    result = 0;
+    result = linear_mss(arr9, size);
+    std::cout << result << std::endl;
+
+    static int arr10[] = {961, 628, 74, 865, 532, 947, 291, 264, 739, 113, 228, 739, 192, 591, 104, 836, 102, 529, 87, 370, 875, 102, 300, 398, 838, 573, 717, 165, 816, 192, 893, 280, 277, 879, 7, 465, 97, 277, 95, 979, 791, 418, 759, 374, 203, 209, 418, 534, 499, 888, 726, 372, 279, 176, 766, 889, 548, 587, 755, 58, 525, 282, 975, 747, 88, 923, 297, 120, 423, 67, 62, 362, 469, 672, 219, 756, 340, 664, 223, 901, 475, 214, 631, 629, 763, 499, 207, 629, 626, 354, 850, 387, 528, 188, 395, 50, 299, 7, 303, 353};
+    size = sizeof(arr10) / sizeof(int);
+    result = 0;
+    result = cubic_mss(arr10, size);
+    std::cout << result << std::endl;
+    result = 0;
+    result = quadratic_mss(arr10, size);
+    std::cout << result << std::endl;
+    result = 0;
+    result = linear_mss(arr10, size);
+    std::cout << result << std::endl;
 }
+
 
 /*
     //9

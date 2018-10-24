@@ -123,32 +123,32 @@ Algorithmen_und_Datenstrukturen/fast:
 	$(MAKE) -f CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build.make CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build
 .PHONY : Algorithmen_und_Datenstrukturen/fast
 
-Task_1/mss.o: Task_1/mss.cpp.o
+Task_2/sorting.o: Task_2/sorting.cpp.o
 
-.PHONY : Task_1/mss.o
+.PHONY : Task_2/sorting.o
 
 # target to build an object file
-Task_1/mss.cpp.o:
-	$(MAKE) -f CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build.make CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o
-.PHONY : Task_1/mss.cpp.o
+Task_2/sorting.cpp.o:
+	$(MAKE) -f CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build.make CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o
+.PHONY : Task_2/sorting.cpp.o
 
-Task_1/mss.i: Task_1/mss.cpp.i
+Task_2/sorting.i: Task_2/sorting.cpp.i
 
-.PHONY : Task_1/mss.i
+.PHONY : Task_2/sorting.i
 
 # target to preprocess a source file
-Task_1/mss.cpp.i:
-	$(MAKE) -f CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build.make CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.i
-.PHONY : Task_1/mss.cpp.i
+Task_2/sorting.cpp.i:
+	$(MAKE) -f CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build.make CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.i
+.PHONY : Task_2/sorting.cpp.i
 
-Task_1/mss.s: Task_1/mss.cpp.s
+Task_2/sorting.s: Task_2/sorting.cpp.s
 
-.PHONY : Task_1/mss.s
+.PHONY : Task_2/sorting.s
 
 # target to generate assembly for a file
-Task_1/mss.cpp.s:
-	$(MAKE) -f CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build.make CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.s
-.PHONY : Task_1/mss.cpp.s
+Task_2/sorting.cpp.s:
+	$(MAKE) -f CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build.make CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.s
+.PHONY : Task_2/sorting.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Algorithmen_und_Datenstrukturen"
-	@echo "... Task_1/mss.o"
-	@echo "... Task_1/mss.i"
-	@echo "... Task_1/mss.s"
+	@echo "... Task_2/sorting.o"
+	@echo "... Task_2/sorting.i"
+	@echo "... Task_2/sorting.s"
 .PHONY : help
 
 

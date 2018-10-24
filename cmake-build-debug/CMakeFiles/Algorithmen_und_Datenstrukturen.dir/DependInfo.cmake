@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.cpp" "/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o"
+  "/home/julian/Studium/Algorithmen und Datenstrukturen/Task 2/sorting.cpp" "/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

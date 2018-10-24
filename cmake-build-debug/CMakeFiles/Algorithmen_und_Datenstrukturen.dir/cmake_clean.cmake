@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o"
+  "CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o"
   "Algorithmen_und_Datenstrukturen.pdb"
   "Algorithmen_und_Datenstrukturen"
 )

@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o  -o Algorithmen_und_Datenstrukturen 
+/usr/bin/c++     CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o  -o Algorithmen_und_Datenstrukturen 

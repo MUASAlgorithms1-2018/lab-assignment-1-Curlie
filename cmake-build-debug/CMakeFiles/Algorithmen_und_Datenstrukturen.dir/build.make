@@ -57,27 +57,27 @@ include CMakeFiles/Algorithmen_und_Datenstrukturen.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Algorithmen_und_Datenstrukturen.dir/flags.make
 
-CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o: CMakeFiles/Algorithmen_und_Datenstrukturen.dir/flags.make
-CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o: ../Task\ 1/mss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o -c "/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.cpp"
+CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o: CMakeFiles/Algorithmen_und_Datenstrukturen.dir/flags.make
+CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o: ../Task\ 2/sorting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o -c "/home/julian/Studium/Algorithmen und Datenstrukturen/Task 2/sorting.cpp"
 
-CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.cpp" > CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.i
+CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/julian/Studium/Algorithmen und Datenstrukturen/Task 2/sorting.cpp" > CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.i
 
-CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/julian/Studium/Algorithmen und Datenstrukturen/Task 1/mss.cpp" -o CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.s
+CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/julian/Studium/Algorithmen und Datenstrukturen/Task 2/sorting.cpp" -o CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.s
 
 # Object files for target Algorithmen_und_Datenstrukturen
 Algorithmen_und_Datenstrukturen_OBJECTS = \
-"CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o"
+"CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o"
 
 # External object files for target Algorithmen_und_Datenstrukturen
 Algorithmen_und_Datenstrukturen_EXTERNAL_OBJECTS =
 
-Algorithmen_und_Datenstrukturen: CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_1/mss.cpp.o
+Algorithmen_und_Datenstrukturen: CMakeFiles/Algorithmen_und_Datenstrukturen.dir/Task_2/sorting.cpp.o
 Algorithmen_und_Datenstrukturen: CMakeFiles/Algorithmen_und_Datenstrukturen.dir/build.make
 Algorithmen_und_Datenstrukturen: CMakeFiles/Algorithmen_und_Datenstrukturen.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/julian/Studium/Algorithmen und Datenstrukturen/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Algorithmen_und_Datenstrukturen"
